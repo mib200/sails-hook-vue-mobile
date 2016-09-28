@@ -1,11 +1,11 @@
-# sails-hook-vue2-webpack2-sass
+# sails-hook-vue-mobile
 
 Sails.js hook that provides a Vue.js 2.0 frontend using Webpack 2.0 with SASS compilation.
 
 ## Install
 
 ```sh
-npm install sails-hook-vue2-webpack2-sass --save
+npm install sails-hook-vue-mobile --save
 ```
 
 ## Getting started
